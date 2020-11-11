@@ -1,0 +1,8 @@
+#virtual envirenment
+venv/
+
+#pycharm stuff
+/.idea/
+
+#database
+db.sqlite3
